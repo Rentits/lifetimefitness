@@ -23,6 +23,8 @@ export default function Navbar() {
     { name: "Locations", href: "#locations" },
     { name: "Facilities", href: "#facilities" },
     { name: "Trainers", href: "#trainers" },
+    { name: "Reviews", href: "/#reviews" },
+    { name: "Calculators", href: "/calculators" },
     { name: "Membership", href: "#membership" },
   ];
 
