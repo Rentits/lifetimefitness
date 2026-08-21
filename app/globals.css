@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+:root {
+  --background: #050505;
+  --foreground: #F8F8F8;
+  --charcoal: #121212;
+  --gold: #D4AF37;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-charcoal: var(--charcoal);
+  --color-gold: var(--gold);
+  --font-heading: var(--font-bebas-neue);
+  --font-body: var(--font-manrope);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-body), sans-serif;
+}
+
+.glass {
+  background: rgba(18, 18, 18, 0.7);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(212, 175, 55, 0.1);
+}
