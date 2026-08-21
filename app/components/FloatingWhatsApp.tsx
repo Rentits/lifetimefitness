@@ -44,7 +44,7 @@ export default function FloatingWhatsApp() {
           exit={{ opacity: 0, y: 50, scale: 0.8 }}
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}
-          href="https://wa.me/placeholder"
+          href="https://wa.me/919950550885"
           target="_blank"
           rel="noopener noreferrer"
           className="fixed bottom-6 right-6 z-50 flex items-center gap-3 bg-[#25D366] text-white px-5 py-3 rounded-full shadow-[0_4px_20px_rgba(37,211,102,0.4)] transition-shadow hover:shadow-[0_4px_25px_rgba(37,211,102,0.6)]"

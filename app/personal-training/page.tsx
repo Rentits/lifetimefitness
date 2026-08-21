@@ -36,7 +36,7 @@ export default function PersonalTrainingPage() {
           </div>
         </div>
 
-        <a href="https://wa.me/placeholder?text=Hi! I am interested in Personal Training." className="inline-block px-10 py-5 bg-gold text-black font-heading tracking-widest text-xl rounded-full hover:shadow-[0_0_25px_rgba(212,175,55,0.6)] transition-all">
+        <a href="https://wa.me/919950550885?text=Hi! I am interested in Personal Training." className="inline-block px-10 py-5 bg-gold text-black font-heading tracking-widest text-xl rounded-full hover:shadow-[0_0_25px_rgba(212,175,55,0.6)] transition-all">
           Consult a Trainer Today
         </a>
       </section>

@@ -47,7 +47,7 @@ export default function Hero() {
           className="flex flex-col sm:flex-row items-center justify-center gap-6"
         >
           <a
-            href="https://wa.me/placeholder"
+            href="https://wa.me/919950550885"
             className="px-10 py-4 bg-gold text-black font-heading tracking-widest text-xl rounded-full shadow-[0_0_20px_rgba(212,175,55,0.4)] hover:shadow-[0_0_30px_rgba(212,175,55,0.7)] hover:-translate-y-1 transition-all duration-300 w-full sm:w-auto text-center"
           >
             Join Today

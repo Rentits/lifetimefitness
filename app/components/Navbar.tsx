@@ -53,7 +53,7 @@ export default function Navbar() {
             </Link>
           ))}
           <a
-            href="https://wa.me/placeholder"
+            href="https://wa.me/919950550885"
             className="px-6 py-2.5 bg-gold text-black font-semibold rounded-full hover:shadow-[0_0_15px_rgba(212,175,55,0.4)] transition-all transform hover:-translate-y-0.5 duration-300"
           >
             Join Now
@@ -89,7 +89,7 @@ export default function Navbar() {
               </Link>
             ))}
             <a
-              href="https://wa.me/placeholder"
+              href="https://wa.me/919950550885"
               className="px-8 py-3 bg-gold text-black font-bold rounded-full mt-4 text-xl"
             >
               Join Now

@@ -47,7 +47,7 @@ export default function FreeTrialPage() {
           
           <div className="pt-4 border-t border-white/10">
             <p className="text-white/50 text-sm mb-6">Click below to message us directly on WhatsApp to activate your pass instantly.</p>
-            <a href="https://wa.me/placeholder?text=Hi! I would like to claim my 1-day free trial pass." className="inline-flex items-center justify-center gap-3 w-full sm:w-auto px-10 py-5 bg-[#25D366] text-white font-bold tracking-wide text-lg rounded-full shadow-[0_0_20px_rgba(37,211,102,0.4)] hover:shadow-[0_0_30px_rgba(37,211,102,0.6)] transition-all transform hover:-translate-y-1">
+            <a href="https://wa.me/919950550885?text=Hi! I would like to claim my 1-day free trial pass." className="inline-flex items-center justify-center gap-3 w-full sm:w-auto px-10 py-5 bg-[#25D366] text-white font-bold tracking-wide text-lg rounded-full shadow-[0_0_20px_rgba(37,211,102,0.4)] hover:shadow-[0_0_30px_rgba(37,211,102,0.6)] transition-all transform hover:-translate-y-1">
               Activate Pass via WhatsApp <ArrowRight size={20} />
             </a>
           </div>

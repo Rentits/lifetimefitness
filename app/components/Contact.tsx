@@ -48,7 +48,7 @@ export default function Contact() {
               <div>
                 <h4 className="text-white font-medium mb-1">Phone</h4>
                 <p className="text-white/60 text-sm leading-relaxed">
-                  +91 98765 43210
+                  +91 9950550885
                 </p>
               </div>
             </div>
@@ -60,13 +60,13 @@ export default function Contact() {
               <div>
                 <h4 className="text-white font-medium mb-1">Email</h4>
                 <p className="text-white/60 text-sm leading-relaxed">
-                  hello@lifetimefitnessjaipur.demo
+                  lifetimefitnessclubjpr@gmail.com
                 </p>
               </div>
             </div>
 
             <div className="pt-6">
-              <a href="https://wa.me/placeholder" className="inline-flex items-center justify-center w-full md:w-auto px-10 py-4 bg-gold text-black font-heading tracking-widest text-lg rounded-full shadow-[0_0_15px_rgba(212,175,55,0.4)] hover:shadow-[0_0_25px_rgba(212,175,55,0.6)] transition-all">
+              <a href="https://wa.me/919950550885" className="inline-flex items-center justify-center w-full md:w-auto px-10 py-4 bg-gold text-black font-heading tracking-widest text-lg rounded-full shadow-[0_0_15px_rgba(212,175,55,0.4)] hover:shadow-[0_0_25px_rgba(212,175,55,0.6)] transition-all">
                 Chat on WhatsApp
               </a>
             </div>
@@ -78,12 +78,13 @@ export default function Contact() {
             viewport={{ once: true }}
             className="rounded-2xl overflow-hidden glass border border-white/10 min-h-[400px] relative"
           >
-            {/* Placeholder for Google Maps */}
-            <div className="absolute inset-0 flex flex-col items-center justify-center bg-charcoal">
-              <MapPin size={48} className="text-white/20 mb-4" />
-              <p className="text-white/40 font-heading tracking-widest uppercase">Google Maps Integration</p>
-              <p className="text-white/30 text-xs mt-2 text-center px-8">A dynamic map will be placed here showcasing the exact location in Jaipur.</p>
-            </div>
+            <iframe 
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d113911.23306859364!2d75.76011116671043!3d26.845899214734676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396db623e8574ab9%3A0x6e2df1c1c1fce72f!2sJagatpura%2C%20Jaipur%2C%20Rajasthan!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin" 
+              className="absolute inset-0 w-full h-full border-0 grayscale opacity-80 mix-blend-luminosity hover:grayscale-0 hover:opacity-100 transition-all duration-500"
+              allowFullScreen={true}
+              loading="lazy"
+              referrerPolicy="no-referrer-when-downgrade"
+            ></iframe>
           </motion.div>
         </div>
       </div>

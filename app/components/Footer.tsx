@@ -61,23 +61,23 @@ export default function Footer() {
           <div>
             <h4 className="font-heading text-xl tracking-wider text-white mb-6">Contact</h4>
             <ul className="space-y-4 text-sm text-foreground/60">
-              <li className="flex items-center gap-3">
+              <li className="flex items-center space-x-3 text-white/60">
                 <Phone size={16} className="text-gold" />
-                <span>+91 98765 43210 (Demo)</span>
+                <span>+91 9950550885 (Demo)</span>
               </li>
-              <li className="flex items-center gap-3">
+              <li className="flex items-center space-x-3 text-white/60">
                 <Mail size={16} className="text-gold" />
-                <span>hello@lifetimefitnessjaipur.demo</span>
+                <span>lifetimefitnessclubjpr@gmail.com</span>
               </li>
             </ul>
           </div>
         </div>
 
-        <div className="border-t border-white/10 pt-8 flex flex-col md:flex-row items-center justify-between">
-          <p className="text-xs text-foreground/40 mb-4 md:mb-0">
-            &copy; {new Date().getFullYear()} Lifetime Fitness Jaipur. All rights reserved.
+        <div className="border-t border-white/5 mt-16 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
+          <p className="text-white/40 text-sm">
+            © {new Date().getFullYear()} Lifetime Fitness Jaipur. All rights reserved.
           </p>
-          <p className="text-xs text-foreground/40 font-mono tracking-widest uppercase">
+          <p className="text-white/30 text-xs text-center md:text-right">
             Website concept created for demonstration purposes.
           </p>
         </div>

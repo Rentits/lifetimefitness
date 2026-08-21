@@ -24,13 +24,13 @@ export default function MalviyaNagarLocation() {
           <h2 className="font-heading text-3xl text-gold mb-6">Location Details</h2>
           <ul className="space-y-4 text-white/80">
             <li><strong>Address:</strong> 456 Elite Road, Malviya Nagar, Jaipur, Rajasthan 302017</li>
-            <li><strong>Phone:</strong> +91 98765 43211</li>
+            <li><strong>Phone:</strong> +91 9950550885</li>
             <li><strong>Hours:</strong> Mon-Fri 5:30 AM - 11:00 PM | Sat-Sun 6:00 AM - 10:00 PM</li>
             <li><strong>Amenities:</strong> Recovery Zone, Yoga Studio, Indoor Cycling, Smoothies</li>
           </ul>
           
           <div className="mt-10">
-            <a href="https://wa.me/placeholder" className="inline-block px-8 py-4 bg-gold text-black font-heading tracking-widest text-lg rounded-full hover:shadow-[0_0_20px_rgba(212,175,55,0.4)] transition-all">
+            <a href="https://wa.me/919950550885" className="inline-block px-8 py-4 bg-gold text-black font-heading tracking-widest text-lg rounded-full hover:shadow-[0_0_20px_rgba(212,175,55,0.4)] transition-all">
               Book a Free Trial in Malviya Nagar
             </a>
           </div>

@@ -187,7 +187,7 @@ export default function AIMembershipRecommender() {
                 <div className="flex flex-col items-center justify-center text-center p-8 border border-white/10 rounded-2xl bg-black/30">
                   <h4 className="font-heading text-2xl text-white mb-4">Ready to start?</h4>
                   <p className="text-white/60 text-sm mb-8">Share these results with our coaches to get started on your customized program immediately.</p>
-                  <a href={`https://wa.me/placeholder?text=Hi! I just used the AI Calculator. My target is ${result.calories} calories and I want the ${result.membership} plan.`} className="bg-[#25D366] text-white px-8 py-3 rounded-full font-semibold shadow-[0_0_15px_rgba(37,211,102,0.3)] hover:shadow-[0_0_25px_rgba(37,211,102,0.5)] transition-all flex items-center gap-2 w-full justify-center">
+                  <a href={`https://wa.me/919950550885?text=Hi! I just used the AI Calculator. My target is ${result.calories} calories and I want the ${result.membership} plan.`} className="bg-[#25D366] text-white px-8 py-3 rounded-full font-semibold shadow-[0_0_15px_rgba(37,211,102,0.3)] hover:shadow-[0_0_25px_rgba(37,211,102,0.5)] transition-all flex items-center gap-2 w-full justify-center">
                     Send to WhatsApp
                   </a>
                   <button onClick={() => setStep(1)} className="text-white/40 text-xs mt-6 hover:text-white transition-colors underline">Recalculate</button>

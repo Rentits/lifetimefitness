@@ -17,6 +17,15 @@
 
 ---
 
-### Investment
-**₹24,999**
-*(Includes design, development, basic SEO setup, WhatsApp integration, and 1-month support)*
+### Investment Options
+
+**Landing Page** - ₹9,999
+**Premium Website** - ₹19,999
+**Premium + SEO + Maintenance** - ₹29,999
+
+*Upsell Opportunity:*
+**Monthly Website Management** - ₹1,500/month
+*(Includes updating transformation photos, new trainer additions, offer banners, event announcements, and basic SEO maintenance)*
+
+---
+*This demo is an independent concept prepared for Lifetime Fitness Jaipur and is not their official website.*
