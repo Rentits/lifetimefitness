@@ -4,8 +4,9 @@ import Hero from "./components/Hero";
 import SocialProof from "./components/SocialProof";
 import Features from "./components/Features";
 import LiveGymTour from "./components/LiveGymTour";
-import MembershipPlans from "./components/MembershipPlans";
 import AIMembershipRecommender from "./components/AIMembershipRecommender";
+import Calculators from "./components/Calculators";
+import MembershipPlans from "./components/MembershipPlans";
 import Trainers from "./components/Trainers";
 import Gallery from "./components/Gallery";
 import GoogleReviewShowcase from "./components/GoogleReviewShowcase";
@@ -25,6 +26,7 @@ export default function Home() {
       <Features />
       <LiveGymTour />
       <AIMembershipRecommender />
+      <Calculators />
       <MembershipPlans />
       <Trainers />
       <Gallery />
